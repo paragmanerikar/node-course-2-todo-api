@@ -11,7 +11,7 @@
     "engines": {
         "node": "10.8.0"
     },
-    "author": "",
+    "author": "paragm",
     "license": "ISC",
     "dependencies": {
         "body-parser": "^1.18.3",
@@ -21,8 +21,9 @@
         "mongoose": "^5.2.7"
     },
     "devDependencies": {
-        "expect": "^23.4.0",
+        "expect": "^1.20.2",
         "mocha": "^5.2.0",
+        "nodemon": "^1.10.2",
         "supertest": "^3.1.0"
     }
 }
